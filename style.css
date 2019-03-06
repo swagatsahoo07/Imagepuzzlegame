@@ -1,0 +1,31 @@
+body{
+	background-color: gainsboro;
+}
+h1{
+	color: rebeccapurple;
+	text-align: center;
+}
+p{
+	background-color: #ffffcc;;
+	border-left: 6px solid #2196F3;
+}
+#inputDiv{
+	text-align: center;
+}
+button{
+	color: blue;
+	background-color: orange;
+	
+}
+button:hover{
+	background-color: yellow;
+}
+button:active{
+	background-color: green;
+}
+#itemDisplay{
+	display: flex;
+}
+.items{
+	flex: 1;
+}
